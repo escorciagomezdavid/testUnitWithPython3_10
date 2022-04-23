@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1001",
+        "name": "Tony",
+        "email": "tony.yu@uac.edu.co",
+        "phone": "3058391234",
+        "profile": "DEV"
+    },
+    {
+        "id": "1002",
+        "name": "Ricardo",
+        "email": "ricardo@uac.edu.co",
+        "phone": "3058391234",
+        "profile": "PROFESOR"
+    },
+    {
+        "id": "1003",
+        "name": "Ivan",
+        "email": "ivan@uac.edu.co",
+        "phone": "3058391234",
+        "profile": "DEV"
+    }
+]
